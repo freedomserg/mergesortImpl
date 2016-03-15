@@ -1,2 +1,1 @@
-# Mergesort
-MergeSort & JUnit Hometask (Java Basic)
+Sorting method “Merge sort”. The classical method of the effective sorting.
